@@ -1,4 +1,4 @@
-### Hi there 👋
+### Information
 
 <!--
 **Rek9876boss/Rek9876boss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I program mathmatical formulas in Java, JavaScript, and TypeScript.
+
+I am a member of the SRHS FTC team
+
+Planning to learn C, C++, and Python, possibly Kotlin, Fortran, and Assembly
