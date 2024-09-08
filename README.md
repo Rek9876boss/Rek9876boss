@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 I program mathmatical formulas in Java, JavaScript, and TypeScript.
 
-I am a member of FTC team 3796.
 <!--
-Planning to learn C, C++, and Python, possibly Kotlin, Fortran, and Assembly
+Planning to learn C and Python, possibly Fortran and Assembly
 -->
