@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I program mathmatical formulas in Java, JavaScript, and TypeScript.
 
 <!--
-Planning to learn C and Python, possibly Fortran and Assembly
+
 -->
